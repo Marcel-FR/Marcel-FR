@@ -33,6 +33,7 @@ I would also love to volunteer my time to contributing to open-source projects! 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff)
+![Krita](https://img.shields.io/badge/-Krita-3BABFF?style=flat-square&logo=Krita&logoColor=ffffff)
 
 <hr>
 
