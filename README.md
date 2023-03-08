@@ -37,5 +37,5 @@ I would also love to volunteer my time to contributing to open-source projects! 
 
 <hr>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcel-FR&show_icons=true&theme=radical) | <a href="https://camo.githubusercontent.com/9d353d62714e0b0acd5ada4a042838f2b81c67df3f5b4c5ac28b168024edc88f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d617263656c2d667226"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcel-fr&theme=radical" alt="Marcel-FR's github streaks" /></a> |
+| ![Marcel-FR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcel-FR&show_icons=true&theme=radical) | <a href="https://camo.githubusercontent.com/9d353d62714e0b0acd5ada4a042838f2b81c67df3f5b4c5ac28b168024edc88f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d617263656c2d667226"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcel-fr&theme=radical" alt="Marcel-FR's github streaks" /></a> |
 | ------------- | ------------- |
