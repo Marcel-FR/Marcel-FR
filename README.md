@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h4 align="center">Thanks for visiting my page!</h4>
 
-My name is Marcel :smile:, I'm a 20-year-old front-end developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Hamburg, Germany</b>. I've recently completed studying web development in a bootcamp at [neuefische](https://www.neuefische.de/en) and I'm looking to help those who need web development work done.
+My name is Marcel :smile:, I'm a 21-year-old front-end developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Hamburg, Germany</b>. I've recently completed studying web development in a bootcamp at [neuefische](https://www.neuefische.de/en) and I'm looking to help those who need web development work done.
 
 I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with small websites and projects. I'm also a big proponent of putting an emphasis on accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
 
