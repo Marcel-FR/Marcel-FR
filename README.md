@@ -28,7 +28,7 @@ I would also love to volunteer my time to contributing to open-source projects! 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 
-#### Editors, Operating Systems and other Software:
+#### IDE and other Softwares:
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=ffffff)
