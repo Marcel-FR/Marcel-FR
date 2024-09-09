@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h4 align="center">Thanks for visiting my page!</h4>
 
-My name is Marcel :smile:, I'm a 21-year-old front-end developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Hamburg, Germany</b>. I've recently completed studying web development in a bootcamp at [neuefische](https://www.neuefische.de/en) and I'm looking to help those who need web development work done.
+My name is Marcel :smile:, I'm a 21-year-old full-stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Hamburg, Germany</b>. I'm currently working at Cpro Industry Projects & Solutions. Although I'm a full-stack developer, I work a lot with the ERP system SAP.
 
 I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with small websites and projects. I'm also a big proponent of putting an emphasis on accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
 
@@ -28,11 +28,18 @@ I would also love to volunteer my time to contributing to open-source projects! 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 
-#### IDE and other Softwares:
+#### ERP-Systems:
+
+![ABAP](https://img.shields.io/badge/-ABAP-1545BE?style=flat-square&logo=SAP&logoColor=ffffff)
+![Fiori](https://img.shields.io/badge/-Fiori-12A835?style=flat-square&logo=SAP&logoColor=ffffff)
+
+
+#### IDEs and other Softwares:
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=ffffff)
+![Eclipse](https://img.shields.io/badge/-Eclipse-6815B6?style=flat-square&logo=Eclipse&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=ffffff)
 ![Krita](https://img.shields.io/badge/-Krita-3BABFF?style=flat-square&logo=Krita&logoColor=ffffff)
 
 <hr>
